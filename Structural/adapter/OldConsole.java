@@ -1,0 +1,3 @@
+interface OldConsole {
+    void playOldGames();
+}
